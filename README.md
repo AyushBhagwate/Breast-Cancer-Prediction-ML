@@ -1,3 +1,5 @@
+![Image_Alt](https://github.com/AyushBhagwate/Breast-Cancer-Prediction-ML/blob/ad129923c9238be600975c2158f6200a5af7808a/Breast-Cancer-Prediction-ML_Banner.png)
+
 # 🧠 Breast Cancer Prediction using Machine Learning
 
 ## 📌 Overview
